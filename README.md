@@ -1,2 +1,3 @@
-# mcdf-static.github.io
-Interactive tools, inspired by MCW-calc
+/tools/TOOLNAME
+
+You add tools by adding div element with class "tool" and data-type with the value being the name of the tool.
